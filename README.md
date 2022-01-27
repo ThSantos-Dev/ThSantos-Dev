@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Oiii eu sou o Thales Santos, estudante de Desenvolvimento de Sistemas!
+## Oiii eu sou Thales Santos, estudante de Desenvolvimento de Sistemas!
 <div align="center">
   <a href="https://github.com/thsantos-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thsantos-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
