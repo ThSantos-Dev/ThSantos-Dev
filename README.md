@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ### Estou estudando sobre:
 <ul>
-    <li>React</li>
+    <li>React / ReactNative</li>
     <li>Kotlin/Android</li>
     <li>Node.js</li>
-    <li>SASS</li>
+    <li>TypeScript</li>
 </ul>
 
 <div align="center">
