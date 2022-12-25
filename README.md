@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Oiii eu sou Thales Santos, estudante de Desenvolvimento de Sistemas!<br>
+## Oiii eu sou Thales Santos, sou formado em Desenvolvimento de Sistemas!<br>
 
 ### Estou estudando sobre:
 <ul>
